@@ -1,0 +1,1 @@
+# Minimal-Fastapi-Instagram-Parser-API-Application
